@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-+ Conducts a posiitve/negative sentiment analysis on the most recent tweets containing a term specified by the user.
++ Conducts a positive/negative and subjective/objective sentiment analysis on the most recent tweets containing a term specified by the user.
 + Project is written in Python and uses Pandas, Tweepy (For tweet scraping), and TextBlob (For sentiment analysis)
 +Defaults to pulling the 50 most recent tweets, but can be modified to go above (Provided that you stay within the Twitter API request limit)
 
